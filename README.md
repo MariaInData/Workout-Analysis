@@ -27,3 +27,4 @@ Now,  I can quickly analyze my workouts and confirm how much I like cycling. Bey
 
 4. Scaled the dashboard
 - Showing off my analysis to my family and friends, I was able to scale up my work. Others wanted a dashboard to analyze their workouts. It took less than 20 minutes to build everyone else's dashboard as the Python script was already written and the dashboard could be copied using their workout data. I'm happy to help others learn more about their workouts (and hopefully convert them into cyclist enthusiasts!)
+<p align="center"> <img width="710" alt="image" src="https://user-images.githubusercontent.com/125685678/222876118-24ae3713-9ef5-4646-b7ce-318f24191904.png"></p>  
